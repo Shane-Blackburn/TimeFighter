@@ -3,4 +3,5 @@
     <string name="game_score_text">Your Score: %1$d</string>
     <string name="time_remaining_text">Time Left: %1$d</string>
     <string name="tap_button_text">Tap Me</string>
+    <string name="game_finish_toast">Time is up! Your score was: %1$d</string>
 </resources>
